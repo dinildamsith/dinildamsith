@@ -16,9 +16,17 @@
 - 📫 How to reach me **dinildamsith52@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<span><a herf=""><img src="images.png" width="30" ></a></span>
-<span><a herf=""><img src="facebook-logo-new.png" width="70" ></a></span>
-<span><a herf=""><img src="12xp-instagram-videoSixteenByNineJumbo1600-v2-removebg-preview.png" width="70" ></a></span>
+<span><a herf=""><img src="whatsapp.png" width="50" ></a></span>
+<span><a herf=""><img src="mail.png" width="50" ></a></span>
+<span><a herf=""><img src="linkding.png" width="50" ></a></span>
+<span><a herf=""><img src="inster.png" width="50" ></a></span>
+<span><a herf=""><img src="facebook.png" width=50" ></a></span>
+
+<h3>Skills</h3>
+<span><img src="icons8-adobe-photoshop-50.png"></span>
+<span><img src="java_Logo.png"></span>
+<span><img src="icons8-sql-50.png"></span>
+<span><img src="gg.png"></span>
 
 
 <p align="left">
