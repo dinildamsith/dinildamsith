@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Dinil Damsith</h1>
 <h3 align="center">Software Engineer</h3>
-<img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Animated Chock Coding GIF">
+<img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinildamsith&label=Profile%20views&color=0e75b6&style=flat" alt="dinildamsith" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinildamsith" alt="dinildamsith" /></a> </p>
@@ -15,6 +16,7 @@
 - 📫 How to reach me **dinildamsith52@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img src="" alt="">
 <p align="left">
 </p>
 
