@@ -19,7 +19,7 @@
 <span><a href="https://wa.me/714430305"><img src="whatsapp.png" width="50"></a></span>
 <span><a href="mailto:dinildamsith52@gmail.com?subject=Your%20Subject%20Here"><img src="mail.png" width="50"></a></span>
 <span><a href="#"><img src="linkding.png" width="50"></a></span>
-<span><a href="#"><img src="inster.png" width="50"></a></span>
+<span><a href="https://www.instagram.com/dinil_damsith22_09/"><img src="inster.png" width="50"></a></span>
 <span><a href="https://www.facebook.com/dinil.damsith.391?mibextid=ZbWKwL"><img src="facebook.png" width="50"></a></span>
 
 
