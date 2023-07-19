@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MyPortfolio**
+❂ 🔭 I’m currently working on **MyPortfolio**
 
-- 🌱 I’m currently learning **IJSE - Institute of Software Engineering**
+❂ 🌱 I’m currently learning **IJSE - Institute of Software Engineering**
 
-- 📫 How to reach me **dinildamsith52@gmail.com**
+❂ 📫 How to reach me **dinildamsith52@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <span><a href="https://wa.me/714430305"><img src="whatsapp.png" width="50"></a></span>
