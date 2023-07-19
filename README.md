@@ -16,11 +16,11 @@
 - 📫 How to reach me **dinildamsith52@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<span><a herf=""><img src="whatsapp.png" width="50" ></a></span>
-<span><a herf=""><img src="mail.png" width="50" ></a></span>
+<span><a herf="https://wa.me/714430305"><img src="whatsapp.png" width="50" ></a></span>
+<span><a herf="mailto:dinildamsith52@gmail.com?subject=Your%20Subject%20Here"><img src="mail.png" width="50" ></a></span>
 <span><a herf=""><img src="linkding.png" width="50" ></a></span>
 <span><a herf=""><img src="inster.png" width="50" ></a></span>
-<span><a herf=""><img src="facebook.png" width=50" ></a></span>
+<span><a herf="https://www.facebook.com/dinil.damsith.391?mibextid=ZbWKwL"><img src="facebook.png" width=50" ></a></span>
 
 <h3>Skills</h3>
 <span><img src="icons8-adobe-photoshop-50.png"></span>
