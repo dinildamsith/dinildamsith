@@ -11,7 +11,9 @@
 
 ❂ 🔭 I’m currently working on **MyPortfolio**
 
-❂ 🌱 I’m currently learning **IJSE - Institute of Software Engineering**
+❂ 🌱 Studied at **Java Institute Sri Lanka**
+
+❂ 🌱 Studied at **IJSE - Institute of Software Engineering**
 
 ❂ 📫 How to reach me **dinildamsith52@gmail.com**
 
