@@ -30,7 +30,7 @@
 
 <h3>Skills</h3>
 
- <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME" alt="Profile Views Counter">
+<!-- <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME" alt="Profile Views Counter">-->
 <span><img src="icons8-adobe-photoshop-50.png"></span>
 <span><img src="java_Logo.png"></span>
 <span><img src="icons8-sql-50.png"></span>
