@@ -1,6 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Dinil Damsith</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hey there! Welcome to my GitHub profile! <img src="365d1aea201d8b8d8aee67e856b8e2a2.gif" width="70"><br><br>
+  
+<h5>Hello, I am Dinil Damsith, a software engineer. With a strong foundation in programming and a passion for technology, I am dedicated to crafting innovative software solutions that drive efficiency and enhance user experiences.</h6>
+
+</h1>
+
 <img src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinildamsith&label=Profile%20views&color=0e75b6&style=flat" alt="dinildamsith" /> </p>
