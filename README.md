@@ -24,7 +24,57 @@
 
 ❂ 📫 How to reach me **dinildamsith52@gmail.com**
 
-<hr>
+<br><br>
+
+### 🌐 Skills
+
+- Front-end Development: 
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
+
+- Back-end Development: 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+- UI/UX Design: 
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=black&style=flat)
+  ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?logo=sketch&logoColor=black&style=flat)
+
+- Version Control: 
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+
+- Project Management: 
+  ![Agile](https://img.shields.io/badge/-Agile-0093D7?logo=agile&logoColor=white&style=flat)
+  ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum&logoColor=white&style=flat)
+
+### 🛠️ Tools & Software
+
+- Adobe Creative Suite: 
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white&style=flat)
+  
+
+- Figma: 
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
+- Visual Studio Code: 
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat)
+
+- Postman: 
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+
+ 
+
+- Slack: 
+  ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat)
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <span><a href="https://wa.me/714430305"><img src="whatsapp.png" width="50"></a></span>
@@ -33,25 +83,10 @@
 <span><a href="https://www.instagram.com/dinil_damsith22_09/"><img src="inster.png" width="50"></a></span>
 <span><a href="https://www.facebook.com/dinil.damsith.391?mibextid=ZbWKwL"><img src="facebook.png" width="50"></a></span>
 
-<hr>
 
-<h3>Skills</h3>
 
-<!-- <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME" alt="Profile Views Counter">-->
-<span><img src="icons8-adobe-photoshop-50.png"></span>
-<span><img src="java_Logo.png"></span>
-<span><img src="icons8-sql-50.png"></span>
-<span><img src="gg.png"></span>
 
-<hr>
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinildamsith&show_icons=true&locale=en&layout=compact" alt="dinildamsith" /></p>
 
