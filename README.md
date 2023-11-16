@@ -32,26 +32,17 @@
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 
-- Back-end Development: 
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 - UI/UX Design: 
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=black&style=flat)
-  ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?logo=sketch&logoColor=black&style=flat)
 
 - Version Control: 
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
-- Project Management: 
-  ![Agile](https://img.shields.io/badge/-Agile-0093D7?logo=agile&logoColor=white&style=flat)
-  ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum&logoColor=white&style=flat)
+
 
 ### 🛠️ Tools & Software
 
@@ -92,5 +83,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinildamsith&show_icons=true&locale=en" alt="dinildamsith" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinildamsith&" alt="dinildamsith" /></p>
 
