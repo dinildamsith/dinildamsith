@@ -68,19 +68,9 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<span><a href="https://wa.me/714430305"><img src="whatsapp.png" width="50"></a></span>
 <span><a href="mailto:dinildamsith52@gmail.com?subject=Your%20Subject%20Here"><img src="mail.png" width="50"></a></span>
-<span><a href="#"><img src="linkding.png" width="50"></a></span>
 <span><a href="https://www.instagram.com/dinil_damsith22_09/"><img src="inster.png" width="50"></a></span>
 <span><a href="https://www.facebook.com/dinil.damsith.391?mibextid=ZbWKwL"><img src="facebook.png" width="50"></a></span>
 
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinildamsith&show_icons=true&locale=en&layout=compact" alt="dinildamsith" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinildamsith&show_icons=true&locale=en" alt="dinildamsith" /></p>
 
 
