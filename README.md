@@ -26,51 +26,78 @@
 
 <br><br>
 
-### 🌐 Skills
+<h2 align="left">💻 Tech Stack</h2>
 
-- Front-end Development: 
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+###
 
+<h4 align="left">Languages</h4>
 
-- UI/UX Design: 
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=black&style=flat)
+###
 
-- Version Control: 
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40"alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+</div>
 
+###
 
+<h4 align="left">Frameworks & libraries</h4>
 
-### 🛠️ Tools & Software
+###
 
-- Adobe Creative Suite: 
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=flat)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white&style=flat)
-  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+</div>
 
-- Figma: 
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+###
 
-- Visual Studio Code: 
-  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat)
+<h4 align="left">Databases & Tools</h4>
 
-- Postman: 
-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+###
 
- 
-
-- Slack: 
-  ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+</div>
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<span><a href="mailto:dinildamsith52@gmail.com?subject=Your%20Subject%20Here"><img src="mail.png" width="50"></a></span>
-<span><a href="https://www.instagram.com/dinil_damsith22_09/"><img src="inster.png" width="50"></a></span>
-<span><a href="https://www.facebook.com/dinil.damsith.391?mibextid=ZbWKwL"><img src="facebook.png" width="50"></a></span>
+
 
 
 
