@@ -103,9 +103,5 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinildamsith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=dinildamsith&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+
 </div>
-
-###
-
-[![](https://visitcount.itsvg.in/api?id=dinildamsuth&icon=0&color=12)](https://visitcount.itsvg.in)
