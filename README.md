@@ -104,6 +104,6 @@
 <div align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinildamsith&show_icons=true&locale=en&layout=compact" alt="dinildamsith" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinildamsith&show_icons=true&locale=en" alt="dinildamsith" /></p>
+![](https://github-readme-stats.vercel.app/api?username=dinildamsith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 </div>
