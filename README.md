@@ -77,6 +77,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
+<h4 align="left">Version Controller</h4>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="mysql logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="mysql logo"  />
+
+</div>
+
 <h4 align="left">Contact</h4>
 
 <div align="left">
