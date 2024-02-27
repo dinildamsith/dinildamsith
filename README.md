@@ -5,7 +5,6 @@
 <h2 align="left">💻 Tech Stack</h2>
 
 ###
-
 <h4 align="left">Languages</h4>
 
 ###
