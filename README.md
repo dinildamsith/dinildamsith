@@ -1,10 +1,5 @@
+![Group 2 (1)](https://github.com/user-attachments/assets/f379b58e-1386-4d35-9cbd-b9bd1d429829)
 
-
-
-
-<h6><img src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif" style="width: 70px; "> Welcome To My GitHub Profile</h6>
-
-<img src="https://cdn.dribbble.com/users/2288151/screenshots/5356092/media/cdb283ddc3c0368cbc05b7a50f15e529.gif" style="height: 305px;">
 
 <h2 align="left">💻 Tech Stack</h2>
 
