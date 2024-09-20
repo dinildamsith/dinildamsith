@@ -60,7 +60,7 @@
 
 
 
-<h4 align="left">📫 How to reach me</h4>
+<h2 align="left">📫 How to reach me</h2>
 
 <div align="left">
   
