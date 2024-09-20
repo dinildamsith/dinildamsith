@@ -73,10 +73,10 @@
   </a>
 
 
-   <a href="https://dinildamsith.github.io/portfolio/">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=292e37&logoColor=&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  
+<a href="mailto:dinildamsith52@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=292e37&logoColor=&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
+</a>
+
 </div>
 
 ###
