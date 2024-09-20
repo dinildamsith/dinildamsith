@@ -3,11 +3,6 @@
 
 <h2 align="left">💻 Tech Stack</h2>
 
-###
-<h4 align="left">Languages</h4>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40"alt="javascript logo"  />
   <img width="12" />
@@ -18,16 +13,8 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-<h4 align="left">Frameworks & libraries</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -44,16 +31,8 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-</div>
-
-###
-
-<h4 align="left">Databases & Tools</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=maven" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -72,16 +51,16 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-</div>
-
-<h4 align="left">Version Controller</h4>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="mysql logo"  />
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="mysql logo"  />
 
 </div>
+
+
+
+
 
 <h4 align="left">Contact</h4>
 
