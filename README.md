@@ -65,11 +65,16 @@
 <div align="left">
   
 <a href="https://www.linkedin.com/in/dinil-damsith-0689a9290/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=292e37&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 
   <a href="https://dinildamsith.github.io/portfolio/">
   <img src="https://img.shields.io/static/v1?message=Dinil D.&logo=D&label=&color=292e37&logoColor=13f7d7&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+
+
+   <a href="https://dinildamsith.github.io/portfolio/">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=292e37&logoColor=&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   
 </div>
