@@ -87,6 +87,9 @@
 
 </div>
 
+> "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."  
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; — Samuel Beckett
+
 
 
 [![](https://visitcount.itsvg.in/api?id=dinildamsith&icon=0&color=0)](https://visitcount.itsvg.in)
