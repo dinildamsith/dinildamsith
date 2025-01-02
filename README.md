@@ -80,12 +80,15 @@
 </div>
 <!-- dancy gifs -->
 <p align="center"> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="25" height="25"/> 
-<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif" width="25" height="25"/> 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzl1bmV1M3NpMnFjdzR1Ym9sZ3NrMDA3NWdmMnBlaHZzanMzc2d6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q40zmeFedhkbhISnwj/giphy.webp" width="25" height="25"/> 
+<img src="https://stickercommunity.com/uploads/main/04-04-2021-13-45-29-abc2.webp" width="25" height="25"/> 
+<img src="https://stickercommunity.com/uploads/main/04-04-2021-13-45-29-abc26.webp" width="25" height="25"/> 
+<img src="https://stickercommunity.com/uploads/main/04-04-2021-13-45-29-abc3.webp" width="25" height="25"/>
+  
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWI1ZzJlbXNkeGVsNXgya3ZhaDI2ZnhlamtkbzVydWh4NmE1b2ZmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qrwthQPPQrtEk/giphy.webp" width="25" height="25"/> 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW53aHVkcnpudTVhZzV5ZnloZWl5d2d4NDhzaTI5djUwMTJkMWd6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Owa0TWYqHi5RZYGql/giphy.webp" width="25" height="25"/> 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V2aDB5bGQwbG9rZG9kYmsxdGZsaWFhM2txdDBwZjNhMW9lem1vdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10ECejNtM1GyRy/giphy.webp" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif" width="25" height="25"/>
-<img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="25" height="25"/>
-<img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
 </p>
 
 ###
