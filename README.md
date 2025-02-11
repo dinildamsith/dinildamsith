@@ -27,6 +27,8 @@
   <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=redux" height="40" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=flask" height="40" alt="mysql logo"  />
    <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -53,7 +55,10 @@
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="mysql logo"  />
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="mysql logo"  />
-
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="mysql logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="mysql logo"  />
 </div>
 
 
