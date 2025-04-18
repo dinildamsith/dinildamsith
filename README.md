@@ -22,6 +22,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
