@@ -72,17 +72,19 @@
 <div align="left">
   
 <a href="https://www.linkedin.com/in/dinil-damsith-0689a9290/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=292e37&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-
-  <a href="https://dinildamsith.github.io/portfolio/">
-  <img src="https://img.shields.io/static/v1?message=Dinil D.&logo=D&label=&color=292e37&logoColor=13f7d7&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-
+   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"  />
+</a>
 
 <a href="mailto:dinildamsith52@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=292e37&logoColor=&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
+   <img src="https://skillicons.dev/icons?i=gmail" height="40" alt=gmail"  />
 </a>
+
+  <a href="https://dinildamsith.github.io/portfolio/">
+      <img src="https://media.istockphoto.com/id/1347181136/vector/letter-d-typography-logotype-green-blue-letter-d-logo-green-blue-gradient.jpg?s=2048x2048&w=is&k=20&c=23B5hzqzKN6PlmmmgtiqL3Vir0U_WhgvygMoqYj37lo=" height="40" alt=gmail"  />
+  </a>
+
+
+
 
 </div>
 <!-- dancy gifs -->
